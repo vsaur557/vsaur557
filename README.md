@@ -3,13 +3,13 @@
 # Saurabh Verma-
 
 <h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" width= "100%"  /> 
- </br>Hii ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Saurabh Verma </h1>
+ </br> Hii! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Saurabh Verma </h1>
 <h3 align="center"> Observant and intuitive problem-solver, web developer with a specialization in frontend developer. Passionate about building user-centric products.
 </h3>
 <br>
  <h2 align="left">☕ Let's Connect</h2>
 
- <a href="https:https://www.linkedin.com/in/saurabh-verma-38a2a0234" target="blank"><img align="center" src="" alt="gyan's linkedin url" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+ <a href="https:https://www.linkedin.com/in/saurabh-verma-38a2a0234" target="blank"><img align="center" src="" alt="saurabh linkedin url" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 - 👨‍💻 My Portfolio [URL](----/)
 <br/>
 <hr>
