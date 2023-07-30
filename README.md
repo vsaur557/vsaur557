@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" width= "100%"  /> 
  </br>Hii ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Saurabh Verma </h1>
-<h3 align="center">Observant and intuitive problem-solver, full-stack developer with a specialization in MERN stack. Passionate about building user-centric products.
+<h3 align="center">Observant and intuitive problem-solver, web developer with a specialization in frontend developer. Passionate about building user-centric products.
 </h3>
 <br>
  <h2 align="left">☕ Let's Connect</h2>
@@ -15,11 +15,8 @@
  <a href="https://www.linkedin.com/in/prakash-gyanu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gyan's linkedin url" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
  
  
-- 👨‍💻 My Portfolio [URL](https://gyanprakashportfolio.netlify.app/)
-
- 📄 My resume [URL](https://drive.google.com/file/d/1wkEN88hPc3bqztyxo6u3vXj0xwoyxM_-/view?usp=sharing)
+- 👨‍💻 My Portfolio [URL](----/)
  
-
 <br/>
 
 <hr>
