@@ -2,8 +2,7 @@
 
 # Saurabh Verma-
 
-<h1 align="center"><img src="![image](https://github.com/vsaur557/vsaur557/assets/112821614/b566ebbc-0bb6-4f5e-a719-5e09bec0732f)
-" align="center" width= "100%"  /> 
+<h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" width= "100%"  /> 
  </br> Hii! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Saurabh Verma </h1>
 <h3 align="center"> Observant and intuitive problem-solver, web developer with a specialization in frontend developer. Passionate about building user-centric products.
 </h3>
