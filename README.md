@@ -2,7 +2,7 @@
 
 # Saurabh Verma-
 
-<h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" width= "100%"  /> 
+<h1 align="center"><img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crampete.com%2Fcourses%2Ffront-end-online-course%2F&psig=AOvVaw0kTDI8NUdWRffRdRtLo7EY&ust=1690813949168000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCvq_jStoADFQAAAAAdAAAAABAE align="center" width= "100%"  /> 
  </br> Hii! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Saurabh Verma </h1>
 <h3 align="center"> Observant and intuitive problem-solver, web developer with a specialization in frontend developer. Passionate about building user-centric products.
 </h3>
