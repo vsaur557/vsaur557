@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Saurabh Verma-
-<h1 align="center"><img src="C:\Users\HP\Downloads\image_processing20210905-11175-7oxzn1.gif" align="center" width= "100%"  /> 
+<h1 align="center"><img src="//http:image_processing20210905-11175-7oxzn1.gif" align="center" width= "100%"  /> 
 
  </br> Hii! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Saurabh Verma </h1>
 <h3 align="center"> Observant and intuitive problem-solver, web developer with a specialization in frontend developer. Passionate about building user-centric products.
