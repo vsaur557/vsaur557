@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Saurabh Verma-
-<h1 align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0T4ZdfX_OVVz5r1qP3w1EL&ust=1690865411987000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJit-tOSuIADFQAAAAAdAAAAABAE"align="center" width= "100%"  /> 
+<h1 align="center"><img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif"align="center" width= "100%"  /> 
 
  </br> Hii! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Saurabh Verma </h1>
 <h3 align="center"> Observant and intuitive problem-solver, web developer with a specialization in frontend developer. Passionate about building user-centric products.
