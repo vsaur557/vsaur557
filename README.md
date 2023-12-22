@@ -10,7 +10,7 @@
  <h2 align="left">☕ Let's Connect</h2>
 
  <a href="https:https://www.linkedin.com/in/saurabh-verma-38a2a0234" target="blank"><img align="center" src="" alt="saurabh linkedin url" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-- 👨‍💻 My Portfolio [URL](https://saurabhport.netlify.app/)
+- 👨‍💻 My Portfolio [URL](https://saurabhprot.netlify.app/)
 <br/>
 <hr>
 <h2 align="left">🚀 Languages and Tools <img 
